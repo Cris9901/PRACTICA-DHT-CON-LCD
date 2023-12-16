@@ -71,7 +71,7 @@ void loop() {
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial y el display como se muestra en la siguente imagen.
-![]()
+![](https://github.com/Cris9901/PRACTICA-DHT-CON-LCD/blob/main/IMAGEN%206_.jpg)
 
 # Créditos
 Desarrollado por Ing. Montañez Mejia Cristian
