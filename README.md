@@ -60,7 +60,7 @@ void loop() {
 4. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
 ![](https://github.com/Cris9901/PRACTICA-DHT-CON-LCD/blob/main/IMAGEN%202.jpg)
 5. Hacer la conexion de **LCD 16x2 (I2C)** con la **ESP32** como se muestra en la siguente imagen.
-![]()
+![](https://github.com/Cris9901/PRACTICA-DHT-CON-LCD/blob/main/IMAGEN%205_.jpg)
 
 ### Instrucciónes de operación
 
