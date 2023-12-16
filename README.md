@@ -56,7 +56,7 @@ void loop() {
 2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 ![](https://github.com/Cris9901/PRACTICA-DHT-CON-LCD/blob/main/IMAGEN%201.jpg)
 3. Instalar la libreria de **LiquidCrystal I2C** como se muestra en la siguente imagen.
-![]()  
+![](https://github.com/Cris9901/PRACTICA-DHT-CON-LCD/blob/main/IMAGEN%204_.jpg)  
 4. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
 ![]()
 5. Hacer la conexion de **LCD 16x2 (I2C)** con la **ESP32** como se muestra en la siguente imagen.
